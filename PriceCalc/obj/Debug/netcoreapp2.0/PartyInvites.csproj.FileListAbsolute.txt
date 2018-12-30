@@ -1,0 +1,22 @@
+C:\C# & .NET\Pro ASP.NET Core MVC 2\Code Samples\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+C:\C# & .NET\Pro ASP.NET Core MVC 2\Code Samples\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+C:\C# & .NET\Pro ASP.NET Core MVC 2\Code Samples\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+C:\C# & .NET\Pro ASP.NET Core MVC 2\Code Samples\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+C:\C# & .NET\Pro ASP.NET Core MVC 2\Code Samples\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\C# & .NET\Pro ASP.NET Core MVC 2\Code Samples\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojAssemblyReference.cache
+C:\C# & .NET\Pro ASP.NET Core MVC 2\Code Samples\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+C:\C# & .NET\Pro ASP.NET Core MVC 2\Code Samples\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+C:\C# & .NET\Pro ASP.NET Core MVC 2\Code Samples\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+C:\C# & .NET\Pro ASP.NET Core MVC 2\Code Samples\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+C:\C# & .NET\Pro ASP.NET Core MVC 2\Code Samples\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\Users\Mr_Fi\Desktop\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+C:\Users\Mr_Fi\Desktop\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+C:\Users\Mr_Fi\Desktop\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+C:\Users\Mr_Fi\Desktop\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\Mr_Fi\Desktop\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\Users\Mr_Fi\Desktop\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojAssemblyReference.cache
+C:\Users\Mr_Fi\Desktop\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+C:\Users\Mr_Fi\Desktop\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+C:\Users\Mr_Fi\Desktop\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+C:\Users\Mr_Fi\Desktop\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\Mr_Fi\Desktop\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb

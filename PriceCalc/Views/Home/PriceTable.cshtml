@@ -1,0 +1,56 @@
+﻿@model PriceCalc.Models.MyModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    <title>Таблица цен</title>
+    <style>
+        .content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -o-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body class="content">
+    <div class="panel-body">
+        <h2>Таблица цен</h2>
+        <table class="table table-sm table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Полная цена в рублях</th>
+                    <th>@Model.Price</th>
+                </tr>
+                <tr>
+                    <th>75% от цены в рублях</th>
+                    <th>@Model.Calc</th>
+                </tr>
+                <tr>
+                    <th>75% от цены в гривнах</th>
+                    <th>@Model.Grivna</th>
+                </tr>
+                <tr>
+                    <th>75% от цены в долларах</th>
+                    <th>@Model.Dollar</th>
+                </tr>
+                <tr>
+                    <th>75% от цены в евро</th>
+                    <th>@Model.Euro</th>
+                </tr>
+            </thead>
+        </table>
+        <div class="text-center">
+            <a class="btn btn-primary" asp-action="Index">Назад</a>
+        </div>
+    </div>
+</body>
+</html>
